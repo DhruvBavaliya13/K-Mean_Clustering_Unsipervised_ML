@@ -56,6 +56,8 @@ The dataset used in this project contains:
 🔹 Scatter plot of study hours vs. scores  
 🔹 Regression line visualization  
 🔹 Model error analysis  
+![example](https://github.com/user-attachments/assets/e43979bb-3730-477a-8464-8fc737e352fd)
+
 
 ## 🤝 Contributing  
 
